@@ -7,7 +7,7 @@ You must also manually add your own account key to the script in order to authen
 
 ## Usage
 
-./auth-submit-search.py <subreddit> <number of posts> <keyword 1> <keyword 2> ... <keyword n>
+./auth-submit-search.py <subreddit> <number of posts> <keyword 1> <keyword 2> .. <keyword n>
 
 Example
 ./auth-submit-search.py lsat 1000 score gpa T14
